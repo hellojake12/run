@@ -1,0 +1,14 @@
+body
+{
+	background-size: cover;
+	background-position: center;
+}
+h1{
+	color: aquamarine;
+	font-family: inherit;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+}
